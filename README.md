@@ -1,4 +1,4 @@
 # Auto Scroll
 =============
 
-These files acompany the tutorial: [Autoscroll page with jQuery](http://daveismyname.com/autoscroll-page-with-query-bp)
+These files acompany the tutorial: [Autoscroll page with jQuery](https://daveismyname.com/autoscroll-page-with-jquery-bp)
